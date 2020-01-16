@@ -1,0 +1,26 @@
+Jupyter Notebook
+The Jupyter Labs is a browser-based interface for interactive computing. Jupyter Labs has support for over 100 programming languages, 
+including those popular in Data Science such R, Julia, Scala - and most importantly, Python. Individual notebooks are composable, 
+executable, and sharable documents that mix text, code, data, and visualizations. Jupyter Labs comes pre-loaded in Anaconda.
+
+Windows Setup:
+Python
+Download and install Anaconda. Very specifically download the graphical installer for the 3.7 version
+Use all of the defaults for installation except make sure to check Make Anaconda the default Python.
+
+
+Mac OS X Installation
+Download and install Anaconda. Very specifically download the graphical installer for the 3.7 version.
+Use all of the defaults for installation except make sure to check Make Anaconda the default Python.
+
+Linux:
+We recommend the all-in-one scientific Python installer Anaconda. (Installation requires using the shell and if you aren't comfortable 
+doing the installation yourself just download the installer and we'll help you at the Workshop.)
+
+Download the installer that matches your operating system and save it in your home folder.
+Open a terminal window.
+Type "bash Anaconda-"
+and then press tab. The name of the file you just downloaded should appear.
+Press enter. You will follow the text-only prompts. When there is a colon at the bottom of the screen press the down arrow to move down 
+through the text. Type yes and press enter to approve the license. Press enter to approve the default location for the files. 
+Type yes and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
